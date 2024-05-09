@@ -1,0 +1,4 @@
+inimg sample.bmp
+ouimg out.bmp
+
+filter downscaling 2

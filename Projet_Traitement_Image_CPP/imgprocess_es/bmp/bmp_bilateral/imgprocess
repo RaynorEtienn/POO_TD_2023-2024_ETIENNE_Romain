@@ -1,0 +1,4 @@
+inimg sample.bmp
+ouimg out.bmp
+
+filter bilateral 2 0.1

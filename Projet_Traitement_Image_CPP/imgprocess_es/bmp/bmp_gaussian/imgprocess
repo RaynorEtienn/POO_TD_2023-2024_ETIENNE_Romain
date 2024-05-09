@@ -1,0 +1,4 @@
+inimg sample.bmp
+ouimg out.bmp
+
+filter gaussian 0.8

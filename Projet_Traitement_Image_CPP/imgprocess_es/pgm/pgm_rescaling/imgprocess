@@ -1,0 +1,4 @@
+inimg sample.pgm
+ouimg out.pgm
+
+filter rescaling 100 200

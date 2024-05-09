@@ -1,0 +1,4 @@
+inimg sample2.ppm
+ouimg out.ppm
+
+filter gaussian 0.8

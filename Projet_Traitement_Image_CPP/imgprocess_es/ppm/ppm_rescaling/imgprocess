@@ -1,0 +1,4 @@
+inimg sample2.ppm
+ouimg out.ppm
+
+filter rescaling 100 200

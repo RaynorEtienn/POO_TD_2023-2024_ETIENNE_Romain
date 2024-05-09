@@ -1,0 +1,4 @@
+inimg sample.ppm
+ouimg out.ppm
+
+filter bilateral 2 0.1

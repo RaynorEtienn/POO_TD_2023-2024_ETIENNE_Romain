@@ -1,0 +1,4 @@
+inimg sample.bmp
+ouimg out.bmp
+
+filter rescaling 100 200
